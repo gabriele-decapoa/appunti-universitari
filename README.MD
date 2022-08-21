@@ -57,3 +57,11 @@ Spero possano esservi utili.
 * Storia dell'Integrazione Europea
 * Elementi di Fisiologia Umana
 * Filosofia dell'Ingegneria
+* Economia degli Intermediari Finanziari
+* Diritto Pubblico
+* Diritto Privato
+* Diritto dei Mercati Finanziari
+* Diritto dei Consumi
+* Macroeconomia
+* Matematica Finanziaria
+* Diritto dell'Unione Europea
