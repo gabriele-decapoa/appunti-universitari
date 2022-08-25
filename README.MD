@@ -1,5 +1,5 @@
 # Appunti Universitari
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Questo repository contiene i miei appunti relativi ai corsi di laurea triennale e magistrale in Ingegneria Informatica.  
 Li ho riorganizzati secondo un ipotetico corso di laurea pre-riforma (quinquennale), aggiungendo anche altri appunti su argomenti interessanti o utili.
