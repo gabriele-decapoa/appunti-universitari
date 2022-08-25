@@ -64,6 +64,7 @@ Spero possano esservi utili.
 * Sistemi Quantistici per l'Informatica
 * Visualizzazione delle Informazioni
 
+<!---
 ### Corsi a scelta
 * Storia dell'Integrazione Europea
 * Elementi di Fisiologia Umana
@@ -76,3 +77,4 @@ Spero possano esservi utili.
 * Macroeconomia
 * Matematica Finanziaria
 * Diritto dell'Unione Europea
+-->
