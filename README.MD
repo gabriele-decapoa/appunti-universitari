@@ -3,6 +3,7 @@
 Questo repository contiene i miei appunti relativi ai corsi di laurea triennale e magistrale in Ingegneria Informatica.  
 Li ho riorganizzati secondo un ipotetico corso di laurea pre-riforma (quinquennale), aggiungendo anche altri appunti su argomenti interessanti o utili.
 
+Tutti gli appunti sono rilasciati secondo la licenza Creative Commons.  
 Spero possano esservi utili.
 
 ## La struttura
