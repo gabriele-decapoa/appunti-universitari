@@ -18,26 +18,26 @@ Spero possano esservi utili.
 
 ## La struttura
 ### Primo anno
-* Analisi Matematica
-* Geometria e Combinatoria
-* Chimica
-* Fisica
-* Probabilità e Statistica
+* [Analisi Matematica] (Primo Anno/Analisi Matematica.pdf)
+<!-- * Geometria e Combinatoria -->
+<!-- * Chimica -->
+<!-- * Fisica -->
+<!-- * Probabilità e Statistica -->
 * Fondamenti di Informatica
-* Inglese
+<!-- * Laboratorio di Programmazione -->
+<!-- * Inglese -->
 
-### Secondo anno
+<!-- ### Secondo anno
 * Algoritmi e Strutture Dati
 * Elettrotecnica ed Elettronica
 * Calcolatori Elettronici e Reti Logiche
 * Fondamenti di Automatica
 * Programmazione Orientata agli Oggetti
 * Analisi dei Sistemi ad Eventi
+* Ricerca Operativa
 
 ### Terzo anno
-* Ricerca Operativa
 * Sistemi Operativi
-* Economia Applicata all'Ingegneria
 * Fondamenti di Telecomunicazioni
 * Basi di Dati
 * Reti di Calcolatori e Infrastrutture
@@ -48,21 +48,23 @@ Spero possano esservi utili.
 
 ### Quarto Anno
 * Informatica Teorica
-* Intelligenza Artificiale
-* Architetture dei Sistemi Software
-* Cybersecurity
-* Programmazione Logica
-* Programmazione Concorrente e Distribuita
+* Economia Applicata all'Ingegneria
 * Diritto dell'Informatica
-* Mobile Computing
+* Intelligenza Artificiale (Data Science)
+* Architetture dei Sistemi Software (Programmazione)
+* Cybersecurity (Programmazione, Reti)
+* Programmazione Logica (Programmazione)
+* Programmazione Concorrente e Distribuita (Programmazione, Reti)
+* Mobile Computing (Programmazione, Reti, Grafica)
 
 ### Quinto Anno
-* Big Data e Data Science
-* Grafica Computazionale
-* Bioinformatica
+* Big Data (Data Science)
+* Grafica Computazionale (Grafica)
+* Bioinformatica (Biotech)
 * Gestione dei Sistemi Informativi
 * Sistemi Quantistici per l'Informatica
-* Visualizzazione delle Informazioni
+* Visualizzazione delle Informazioni 
+-->
 
 <!---
 ### Corsi a scelta
