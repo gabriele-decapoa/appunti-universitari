@@ -19,6 +19,7 @@ Spero possano esservi utili.
 ## La struttura
 ### Primo anno
 * [Analisi Matematica](/Primo%20Anno/Analisi%20Matematica.pdf)
+* [Geometria e Combinatoria](/Primo%20Anno/Geometria%20e%20Combinatoria.pdf)
 <!-- * Geometria e Combinatoria -->
 <!-- * Chimica -->
 <!-- * Fisica -->
