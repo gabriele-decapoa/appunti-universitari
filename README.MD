@@ -18,12 +18,12 @@ Spero possano esservi utili.
 
 ## La struttura
 ### Primo anno
-* [Analisi Matematica](/Primo%20Anno/Analisi%20Matematica.pdf)
-* [Geometria e Combinatoria](/Primo%20Anno/Geometria%20e%20Combinatoria.pdf)
+* [Analisi Matematica](/Primo%20Anno/Analisi%20Matematica.pdf) 
+* [Geometria e Combinatoria](/Primo%20Anno/Geometria%20e%20Combinatoria.pdf) 
 <!-- * Chimica -->
-<!-- * Fisica -->
+* [Fisica](/Primo%20Anno/Fisica.pdf) 
 <!-- * Probabilità e Statistica -->
-* [Fondamenti di Informatica](/Primo%20Anno/Fondamenti%20di%20Informatica.pdf)
+* [Fondamenti di Informatica](/Primo%20Anno/Fondamenti%20di%20Informatica.pdf) 
 <!-- * Laboratorio di Programmazione -->
 <!-- * Inglese -->
 
